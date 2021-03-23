@@ -1,4 +1,4 @@
-# Monopoly but ~Racism~
+# Monopoly but Racism
 
 ## Introduction
 
