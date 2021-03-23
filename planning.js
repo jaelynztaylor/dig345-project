@@ -1,4 +1,4 @@
-// Pseudo code for monopoly gameplay function
+// Pseudo code/planning for monopoly gameplay function
 
 //List of functions I think I'll need
 function loadBoard(){
@@ -59,7 +59,9 @@ function secondTurn(){
 
 }
 function gameEnds(){
-
+  if (status = false){
+    end game
+  }
 }
 
 //List of variables I think I'll need
